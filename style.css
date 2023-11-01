@@ -1,0 +1,27 @@
+body { 
+    margin : 5px;
+}
+
+.table { 
+    display: flex;
+    flex-direction: row;
+
+}
+
+.table input {
+    width: 50px;
+    padding : 10px 20px;
+    outline: none;
+    
+}
+
+/* .table input {} */
+
+.header {
+    background-color: aquamarine;
+}
+
+.active {
+    background-color: chartreuse;
+}
+
