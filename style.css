@@ -19,17 +19,17 @@ body {
 /* .table input {} */
 
 .header {
-    background-color: aquamarine;
+    background-color: rgb(207, 209, 208);
 }
 
 .active {
-    background-color: chartreuse;
+    background-color: rgb(168, 241, 246);
 }
 
 .export_btn {
     width: 150px;
     height: 50px;
-    background-color: aquamarine;
+    background-color: rgb(43, 232, 169);
     border: none;
     border-radius: 10px;
 }
