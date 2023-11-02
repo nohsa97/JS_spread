@@ -1,5 +1,6 @@
 body { 
-    margin : 5px;
+    margin-top: 10px;
+    margin-left: 10px;
 }
 
 .table { 
@@ -25,3 +26,14 @@ body {
     background-color: chartreuse;
 }
 
+.export_btn {
+    width: 150px;
+    height: 50px;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 10px;
+}
+
+.export_btn:hover {
+    cursor: pointer;
+}
